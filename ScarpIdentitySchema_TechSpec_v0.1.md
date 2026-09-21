@@ -84,7 +84,7 @@ These are complementary systems that consume the identity schema defined here. S
 
 ### 1.3 Relationship to Requirements Paper
 
-This specification implements the fifteen requirements defined in "Universal Participant Identity for the AI-Enabled Economy: Why Every Participant in an Autonomous Economy Needs Identity That Carries More Than Authentication" (Davidenko, 2026) [10.5281/zenodo.21927016 (DOI)]. That paper establishes the requirements through first-principles analysis of autonomous participation scenarios. This specification provides the construction.
+This specification implements the fifteen requirements defined in "Universal Participant Identity for the AI-Enabled Economy: Why Every Participant in an Autonomous Economy Needs Identity That Carries More Than Authentication" (Davidenko, 2026) [10.5281/zenodo.21927016]. That paper establishes the requirements through first-principles analysis of autonomous participation scenarios. This specification provides the construction.
 
 Readers unfamiliar with the motivation for governance-enabling identity should consult the requirements paper first [TODO: INSERT URL]. This specification assumes familiarity with the requirements and focuses on the technical construction that satisfies them.
 
